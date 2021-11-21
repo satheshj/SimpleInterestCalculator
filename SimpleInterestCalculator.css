@@ -1,0 +1,11 @@
+body {background-color:white;
+align:left}
+h1{color:gray;}
+#compute{background-color:yellow;}
+#box1 { border-radius: 25px;
+  border: 2px solid gray;
+  padding: 20px; 
+  width: 400px;
+  height: 400px;  
+  
+        }
